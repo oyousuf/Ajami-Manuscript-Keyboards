@@ -4,4 +4,4 @@ This repository contains keyboards to type/transcribe Ajami manuscripts. The let
 
 In each language's folder you will find a .exe file for Windows users to download; a .kmp file for Mac users to download; and a typing manual on how to use each keyboard.
 
-A pre-existing keyboard for Fulfulde (Fula) that can sufficiently be used to transcribe Fulfulde Ajami manuscripts can found here: https://help.keyman.com/keyboard/fulfulde_ajami_qwerty/1.0/fulfulde_ajami_qwerty
+A pre-existing keyboard for Fulfulde (also known as Fula, Fulani, Pulaar) that can sufficiently be used to transcribe Fulfulde Ajami manuscripts can found here: https://help.keyman.com/keyboard/fulfulde_ajami_qwerty/1.0/fulfulde_ajami_qwerty
