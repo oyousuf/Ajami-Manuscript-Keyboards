@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>17.0.334.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
+    <WelcomeFile>welcome.htm</WelcomeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Hausa Ajami هَوْسَا</Name>
+    <Copyright URL="">Copyright © Oreen Yousuf</Copyright>
+    <Author URL="mailto:oreen.yousuf@gmail.com">Oreen Yousuf</Author>
+    <Description URL=""></Description>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\hausa_ajami________.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\hausa_ajami________.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\hausa_ajami________.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description>File readme.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description>File welcome.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>hausa_ajami_U.PNG</Name>
+      <Description>File hausa_ajami_U.PNG</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.PNG</FileType>
+    </File>
+    <File>
+      <Name>hausa_ajami_S.PNG</Name>
+      <Description>File hausa_ajami_S.PNG</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.PNG</FileType>
+    </File>
+    <File>
+      <Name>hausa_ajami_A.PNG</Name>
+      <Description>File hausa_ajami_A.PNG</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.PNG</FileType>
+    </File>
+    <File>
+      <Name>Typing Manual_Manuel de dactylographie.pdf</Name>
+      <Description>File Typing Manual_Manuel de dactylographie.pdf</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.pdf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Hausa Ajami هَوْسَا</Name>
+      <ID>hausa_ajami________</ID>
+      <Version>1.0</Version>
+      <RTL>True</RTL>
+      <Languages>
+        <Language ID="ha-Arab-NG">Hausa (Arabic, Nigeria)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

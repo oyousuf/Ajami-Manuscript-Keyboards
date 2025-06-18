@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>17.0.334.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Wolof Ajami وࣷلࣷفْ</Name>
+    <Copyright URL="">Copyright © Oreen Yousuf</Copyright>
+    <Author URL="mailto:oreen.yousuf@gmail.com">Oreen Yousuf</Author>
+    <Description URL="">Il s'agit d'un clavier spécialement créé pour les manuscrits wolof qui ont été étudiés par la bibliothèque Ajami/Readers in Ajami de l'Université de Boston. / 
+This is a keyboard specifically created for Wolof manuscripts that have been studied by Boston University's Ajami Library/Readers in Ajami.</Description>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\wolof_ajami_______.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\wolof_ajami_______.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\wolof_ajami_______.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <Name>ScheherazadeNew-Bold.ttf</Name>
+      <Description>Font Scheherazade New Bold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>ScheherazadeNew-Medium.ttf</Name>
+      <Description>Font Scheherazade New Medium</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>ScheherazadeNew-Regular.ttf</Name>
+      <Description>Font Scheherazade New</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>ScheherazadeNew-SemiBold.ttf</Name>
+      <Description>Font Scheherazade New SemiBold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description>File readme.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>wolof_ajami_U.PNG</Name>
+      <Description>File wolof_ajami_U.PNG</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.PNG</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description>File welcome.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>wolof_ajami_S.PNG</Name>
+      <Description>File wolof_ajami_S.PNG</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.PNG</FileType>
+    </File>
+    <File>
+      <Name>Manuel de dactylographie_Typing Manual.pdf</Name>
+      <Description>File Manuel de dactylographie_Typing Manual.pdf</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.pdf</FileType>
+    </File>
+    <File>
+      <Name>wolof_ajami_A.PNG</Name>
+      <Description>File wolof_ajami_A.PNG</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.PNG</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Wolof Ajami وࣷلࣷفْ</Name>
+      <ID>wolof_ajami_______</ID>
+      <Version>1.0</Version>
+      <RTL>True</RTL>
+      <OSKFont>ScheherazadeNew-Regular.ttf</OSKFont>
+      <DisplayFont>ScheherazadeNew-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="wo-Arab-SN">Wolof</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
